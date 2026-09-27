@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @matt-wong
 - 👀 I’m interested in ...
-  Front-End Development
+  Full-stack Development
+  UX / UI Design
 - 🌱 I’m currently learning ...
-  Google Cloud Platform
+  Supabase - BaaS
 
 <!---
 matt-wong/matt-wong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
